@@ -12,15 +12,15 @@ global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '2347063859672'  //creator number
 global.ownername = 'WULU' //owner name
-global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
+global.botname = 'BOT WULU' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Wulu'
-global.author = 'ZENON\n\nContact: 2347063859672'
+global.author = 'WULU\n\nContact: 2347063859672'
 
 //console view/theme
 global.themeemoji = '🛒'
-global.wm = "Toxxic Tech."
+global.wm = "WULU."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
